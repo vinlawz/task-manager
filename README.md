@@ -43,7 +43,7 @@ A modern task management application built with React, TypeScript, and Vite. Thi
 
 ## Tech Stack
 
-- ⚛ React 18
+-  React 18
 -  TypeScript
 -  Vite
 -  CSS Modules
