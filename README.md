@@ -4,12 +4,12 @@ A modern task management application built with React, TypeScript, and Vite. Thi
 
 ## Features
 
-- 🎯 Add, complete, and delete tasks
-- 📅 Set due dates for tasks
-- 📱 Responsive design
-- 💾 Automatic local storage persistence
-- ⚡ Built with Vite for fast development
-- 🛠 TypeScript for type safety
+-  Add, complete, and delete tasks
+-  Set due dates for tasks
+-  Responsive design
+-  Automatic local storage persistence
+-  Built with Vite for fast development
+-  TypeScript for type safety
 
 ## Getting Started
 
@@ -43,11 +43,11 @@ A modern task management application built with React, TypeScript, and Vite. Thi
 
 ## Tech Stack
 
-- ⚛️ React 18
-- 🔷 TypeScript
-- ⚡ Vite
-- 🎨 CSS Modules
-- 🧪 React Testing Library (optional)
+- ⚛ React 18
+-  TypeScript
+-  Vite
+-  CSS Modules
+-  React Testing Library (optional)
 
 ## Contributing
 
